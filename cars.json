@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Maruti Suzuki Swift",
+    "brand": "Maruti Suzuki",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "LXi", "price": 650000, "mileage": 23, "usage": "city", "fuel": "petrol"},
+      {"model_name": "ZXi", "price": 850000, "mileage": 22, "usage": "city", "fuel": "petrol"},
+      {"model_name": "ZXi CNG", "price": 950000, "mileage": 31, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Baleno",
+    "brand": "Maruti Suzuki",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "Delta", "price": 750000, "mileage": 23, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Alpha", "price": 950000, "mileage": 22, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Alpha CNG", "price": 1050000, "mileage": 31, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Ertiga",
+    "brand": "Maruti Suzuki",
+    "build": "MUV",
+    "models": [
+      {"model_name": "LXi", "price": 880000, "mileage": 20, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "ZXi CNG", "price": 1100000, "mileage": 26, "usage": "highway", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Brezza",
+    "brand": "Maruti Suzuki",
+    "build": "SUV",
+    "models": [
+      {"model_name": "LDi", "price": 800000, "mileage": 17, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "ZDi", "price": 1000000, "mileage": 20, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "build": "SUV",
+    "models": [
+      {"model_name": "EX", "price": 1111000, "mileage": 18, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "SX", "price": 1500000, "mileage": 21, "usage": "highway", "fuel": "diesel"},
+      {"model_name": "Electric", "price": 1700000, "range": 450, "usage": "city", "fuel": "electric"}
+    ]
+  },
+  {
+    "name": "Hyundai Grand i10 Nios",
+    "brand": "Hyundai",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "Magna", "price": 700000, "mileage": 21, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Asta CNG", "price": 850000, "mileage": 28, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Tata Nexon",
+    "brand": "Tata",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Smart", "price": 800000, "mileage": 17, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "Creative", "price": 1100000, "mileage": 20, "usage": "highway", "fuel": "diesel"},
+      {"model_name": "Fearless", "price": 1300000, "range": 400, "usage": "city", "fuel": "electric"}
+    ]
+  },
+  {
+    "name": "Tata Punch",
+    "brand": "Tata",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Pure", "price": 620000, "mileage": 20, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Adventure CNG", "price": 800000, "mileage": 26, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Tata Altroz",
+    "brand": "Tata",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "XE", "price": 665000, "mileage": 19, "usage": "city", "fuel": "petrol"},
+      {"model_name": "XZ", "price": 900000, "mileage": 18, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Mahindra XUV700",
+    "brand": "Mahindra",
+    "build": "SUV",
+    "models": [
+      {"model_name": "MX", "price": 1449000, "mileage": 15, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "AX7", "price": 2000000, "mileage": 17, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Mahindra XUV 3XO",
+    "brand": "Mahindra",
+    "build": "SUV",
+    "models": [
+      {"model_name": "M3", "price": 799000, "mileage": 18, "usage": "city", "fuel": "petrol"},
+      {"model_name": "MX3 Pro", "price": 1000000, "mileage": 20, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Mahindra Scorpio N",
+    "brand": "Mahindra",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Z2", "price": 1399000, "mileage": 15, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "Z8", "price": 1800000, "mileage": 16, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Kia Seltos",
+    "brand": "Kia",
+    "build": "SUV",
+    "models": [
+      {"model_name": "HTE", "price": 1119000, "mileage": 17, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "HTX", "price": 1500000, "mileage": 19, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Kia Carens Clavis",
+    "brand": "Kia",
+    "build": "MUV",
+    "models": [
+      {"model_name": "Prestige", "price": 1100000, "mileage": 18, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "Luxury", "price": 1500000, "mileage": 20, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Toyota Urban Cruiser Hyryder",
+    "brand": "Toyota",
+    "build": "SUV",
+    "models": [
+      {"model_name": "E", "price": 1100000, "mileage": 21, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "V Hybrid", "price": 1600000, "mileage": 28, "usage": "city", "fuel": "hybrid"}
+    ]
+  },
+  {
+    "name": "Honda City",
+    "brand": "Honda",
+    "build": "sedan",
+    "models": [
+      {"model_name": "SV", "price": 1200000, "mileage": 18, "usage": "city", "fuel": "petrol"},
+      {"model_name": "VX Hybrid", "price": 1900000, "mileage": 26, "usage": "city", "fuel": "hybrid"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Fronx",
+    "brand": "Maruti Suzuki",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Sigma", "price": 750000, "mileage": 22, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Delta CNG", "price": 900000, "mileage": 29, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Tata Harrier",
+    "brand": "Tata",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Smart", "price": 1500000, "mileage": 16, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "Fearless", "price": 2000000, "mileage": 17, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Mahindra Thar",
+    "brand": "Mahindra",
+    "build": "SUV",
+    "models": [
+      {"model_name": "LX", "price": 1150000, "mileage": 15, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "AX", "price": 1400000, "mileage": 13, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Hyundai Venue",
+    "brand": "Hyundai",
+    "build": "SUV",
+    "models": [
+      {"model_name": "E", "price": 800000, "mileage": 18, "usage": "city", "fuel": "petrol"},
+      {"model_name": "SX", "price": 1200000, "mileage": 20, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Dzire",
+    "brand": "Maruti Suzuki",
+    "build": "sedan",
+    "models": [
+      {"model_name": "LXi", "price": 700000, "mileage": 23, "usage": "city", "fuel": "petrol"},
+      {"model_name": "ZXi CNG", "price": 900000, "mileage": 31, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Tata Tiago",
+    "brand": "Tata",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "XE", "price": 560000, "mileage": 20, "usage": "city", "fuel": "petrol"},
+      {"model_name": "XZ CNG", "price": 750000, "mileage": 26, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Renault Kwid",
+    "brand": "Renault",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "RXE", "price": 400000, "mileage": 22, "usage": "city", "fuel": "petrol"},
+      {"model_name": "RXT", "price": 550000, "mileage": 21, "usage": "city", "fuel": "petrol"}
+    ]
+  },
+  {
+    "name": "Renault Triber",
+    "brand": "Renault",
+    "build": "MUV",
+    "models": [
+      {"model_name": "RXL", "price": 600000, "mileage": 19, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "RXZ", "price": 800000, "mileage": 18, "usage": "highway", "fuel": "petrol"}
+    ]
+  },
+  {
+    "name": "Skoda Kylaq",
+    "brand": "Skoda",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Classic", "price": 799000, "mileage": 19, "usage": "city", "fuel": "petrol"},
+      {"model_name": "Signature", "price": 1100000, "mileage": 18, "usage": "highway", "fuel": "petrol"}
+    ]
+  },
+  {
+    "name": "MG Windsor EV",
+    "brand": "MG",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Exclusive", "price": 1500000, "range": 350, "usage": "city", "fuel": "electric"},
+      {"model_name": "Essence", "price": 1700000, "range": 360, "usage": "city", "fuel": "electric"}
+    ]
+  },
+  {
+    "name": "Kia Syros",
+    "brand": "Kia",
+    "build": "SUV",
+    "models": [
+      {"model_name": "HTK", "price": 1000000, "mileage": 18, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "HTX", "price": 1300000, "mileage": 20, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Tata Altroz 2025",
+    "brand": "Tata",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "XM", "price": 700000, "mileage": 20, "usage": "city", "fuel": "petrol"},
+      {"model_name": "XZ", "price": 950000, "mileage": 19, "usage": "highway", "fuel": "diesel"}
+    ]
+  },
+  {
+    "name": "Maruti Suzuki Celerio",
+    "brand": "Maruti Suzuki",
+    "build": "hatchback",
+    "models": [
+      {"model_name": "LXi", "price": 550000, "mileage": 25, "usage": "city", "fuel": "petrol"},
+      {"model_name": "VXi CNG", "price": 700000, "mileage": 34, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Hyundai Exter",
+    "brand": "Hyundai",
+    "build": "SUV",
+    "models": [
+      {"model_name": "EX", "price": 650000, "mileage": 19, "usage": "city", "fuel": "petrol"},
+      {"model_name": "SX CNG", "price": 850000, "mileage": 27, "usage": "city", "fuel": "CNG"}
+    ]
+  },
+  {
+    "name": "Honda Elevate",
+    "brand": "Honda",
+    "build": "SUV",
+    "models": [
+      {"model_name": "V", "price": 1200000, "mileage": 16, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "ZX", "price": 1500000, "mileage": 17, "usage": "highway", "fuel": "petrol"}
+    ]
+  },
+  {
+    "name": "Tata Sierra",
+    "brand": "Tata",
+    "build": "SUV",
+    "models": [
+      {"model_name": "Base", "price": 1200000, "mileage": 18, "usage": "highway", "fuel": "petrol"},
+      {"model_name": "Premium", "price": 1600000, "range": 500, "usage": "city", "fuel": "electric"}
+    ]
+  }
+]
