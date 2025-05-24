@@ -141,7 +141,7 @@
 
            // Fetch cars.json
            try {
-             const response = await fetch('https://revvdrive.com/wp-content/uploads/2025/05/cars.json');
+             const response = await fetch('https://raw.githubusercontent.com/ashwin592k/car-chooser/refs/heads/main/cars.json');
              if (!response.ok) throw new Error('Failed to fetch cars.json');
              const cars = await response.json();
 
